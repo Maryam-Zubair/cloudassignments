@@ -1,0 +1,18 @@
+To run this application, you will need the following:
+Python 3.x
+Flask 2.1.0
+PyPDF2 1.26.0
+
+Clone the repository:
+git clone https://github.com/your-username/pdf-merger-web-app.git
+
+Install the required packages:
+pip install -r requirements.txt
+
+Usage
+Run the application:
+python pdf_merger_app.py
+Open your web browser and go to http://localhost:5000/.
+Select multiple PDF files to upload and merge.
+Click on the "Merge" button to merge the uploaded PDF files.
+The merged PDF file will be downloaded automatically.
